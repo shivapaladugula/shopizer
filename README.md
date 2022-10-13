@@ -67,7 +67,7 @@ docker run \
  -p 80:80 shopizerecomm/shopizer-shop-reactjs
 ```
 
-API documentation::
+API documentation:
 -------------------
 
 https://app.swaggerhub.com/apis-docs/shopizer/shopizer-rest-api/3.0.1#/
