@@ -3,7 +3,7 @@ pipeline {
              label 'Node1'
         }
           parameters {
-              choice(name: 'CHOICE', choices: [SPRINT_1_REL], descriptive: 'CHOICE')
+              choice(name: 'CHOICE', choices: [SPRINT_1_REL], description: 'CHOICE')
           }
     
     stages {
